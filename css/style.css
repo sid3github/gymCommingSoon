@@ -1,0 +1,7 @@
+img{
+    background-size: cover;
+    background: no-repeat center center fixed;
+    opacity: 0.8;
+    height: 100vh;
+    width: 100vw;
+}
